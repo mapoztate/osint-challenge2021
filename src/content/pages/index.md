@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Sara Hutchinson
+tagline: Real Estate Agent
+featuredImage: /assets/image.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Sara is a high profile real estate agent based in Manhattan, NYC. She takes clients from the low 800s to the wonderful skyrise studios.
