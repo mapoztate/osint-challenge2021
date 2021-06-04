@@ -23,8 +23,8 @@ const NotFound = () => (
         />
         <h1>Oops we did not expect that to happen</h1>
         <p>
-          Have you wondered into the unknow. Let us help you, Please take a look
-          at below options
+          Have you wondered into the unknown. Let us help you, Please take a look
+          at the options below.
         </p>
       </header>
       <Link to="/" className="button">
