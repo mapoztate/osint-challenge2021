@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Sara Hutchinson",
+    "title": "Sara H.",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Sara's personal blog!",
     "siteUrl": "https://jovial-borg-7fa3b9.netlify.app/",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "image": "/assets/image.png",
+    "iconimage": "/assets/image.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"

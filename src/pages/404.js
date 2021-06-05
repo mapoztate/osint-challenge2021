@@ -21,9 +21,9 @@ const NotFound = () => (
             color: "var(--primary-color)",
           }}
         />
-        <h1>Oops we did not expect that to happen</h1>
+        <h1>Oops, we did not expect that to happen!</h1>
         <p>
-          Have you wondered into the unknown. Let us help you, Please take a look
+          Have you wondered into the unknown? Let us help you, please take a look
           at the options below.
         </p>
       </header>
