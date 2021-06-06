@@ -1,8 +1,8 @@
 {
   "socialIcons": [
     {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
+      "icon": "twitter",
+      "url": "https://twitter.com/home"
     },
     {
       "icon": "instagram",
@@ -10,15 +10,15 @@
     },
     {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "https://www.linkedin.com/in/sara-h-572310214/"
     },
     {
       "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "icon": "github",
+      "url": "https://github.com/"
     }
   ]
 }
