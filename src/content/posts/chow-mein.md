@@ -1,8 +1,9 @@
 ---
 template: blog-post
+title: My Aunt's Chow Mein
 slug: /chow-mein
-date: 2019-02-07T02:24:56.102Z
-title: "My Aunt's Chow Mein"
+date: 2019-02-07 02:24
+description: She makes like, really good chow mein.
 featuredImage: /assets/chowmein.jpg
 ---
 
