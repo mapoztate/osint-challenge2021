@@ -3,7 +3,7 @@ template: blog-post
 title: My Aunt's Chow Mein
 slug: /chow-mein
 date: 2019-02-07 02:24
-description: She makes like, really good chow mein.
+description: She makes, like, really good chow mein.
 featuredImage: /assets/chowmein.jpg
 ---
 
