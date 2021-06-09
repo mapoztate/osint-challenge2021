@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Help Me!
+title: Please help!
 slug: /plz-help
-date: 2021-05-27 08:24
+date: 2020-05-27 08:24
 description: Please help my nephew log onto his AP exam.
 featuredImage: /assets/plzhelp.jpg
 ---
