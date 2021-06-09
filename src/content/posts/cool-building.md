@@ -2,7 +2,7 @@
 template: blog-post
 title: Cool Building!
 slug: /cool-building
-date: 2020-07-18 04:20
+date: 2020-07-18 06:20
 description: What a fascinating building!
 featuredImage: /assets/coolbuilding.PNG
 ---
